@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Kothari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-```
+
 - 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **MERN stack**
@@ -25,5 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkothari&show_icons=true&locale=en&layout=compact" alt="shivanshkothari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkothari&show_icons=true&locale=en" alt="shivanshkothari" /></p>
-<h3>Github Trophies</h3>
-
+```
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+```
