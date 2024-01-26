@@ -23,6 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkothari&show_icons=true&locale=en&layout=compact" alt="shivanshkothari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkothari&show_icons=true&locale=en" alt="shivanshkothari" /></p>
-```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-```
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShivanshKothari&theme=discord&no-frame=true&no-bg=false&margin-w=4)
