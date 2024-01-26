@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkothari&show_icons=true&locale=en" alt="shivanshkothari" /></p>
 <h3>Github Trophies</h3>
-![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShivanshKothari)](https://github.com/ryo-ma/github-profile-trophy)
