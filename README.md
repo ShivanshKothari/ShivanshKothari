@@ -1,4 +1,4 @@
-#Hi 👋, I'm Shivansh Kothari
+# Hi 👋, I'm Shivansh Kothari
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
