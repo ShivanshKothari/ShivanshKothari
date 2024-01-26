@@ -1,4 +1,6 @@
-# Hi 👋, I'm Shivansh Kothari
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShivanshKothari&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+<h1 align="center">Hi 👋, I'm Shivansh Kothari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
@@ -23,5 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkothari&show_icons=true&locale=en&layout=compact" alt="shivanshkothari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshkothari&show_icons=true&locale=en" alt="shivanshkothari" /></p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShivanshKothari&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
