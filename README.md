@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **freelancing projects**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://shivanshkothari.github.io/2.0-Online-Portfolio/](https://shivanshkothari.github.io/2.0-Online-Portfolio/)
 
