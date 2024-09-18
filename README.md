@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshkothari" alt="shivanshkothari" /></a> </p>
 
-- 🔭 I’m currently working on **freelancing projects**
+- 🔭 I’m currently working on **My Portfolio v2**
 
 - 🌱 I’m currently learning **Kotlin**
 
