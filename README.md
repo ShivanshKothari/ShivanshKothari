@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shivanshkothari.github.io/2.0-Online-Portfolio/](https://shivanshkothari.github.io/2.0-Online-Portfolio/)
 
-- 📝 I regularly write articles on [myvedicjourney.blogspot.com](myvedicjourney.blogspot.com)
+- 📝 I write articles on [myvedicjourney.blogspot.com](myvedicjourney.blogspot.com)
 
 - 💬 Ask me about **MERN & PERN stack**
 
