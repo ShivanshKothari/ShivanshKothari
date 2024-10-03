@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My Portfolio v2**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://shivanshkothari.github.io/2.0-Online-Portfolio/](https://shivanshkothari.github.io/2.0-Online-Portfolio/)
 
