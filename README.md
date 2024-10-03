@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshkothari&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshkothari" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshkothari" alt="shivanshkothari" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShivanshKothari&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
