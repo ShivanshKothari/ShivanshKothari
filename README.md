@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Kothari</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">I build dev tools and system-level components that make complex apps simple and reliable. I like combining clean UI, smart data handling, and solid architecture</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshkothari&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshkothari" /></p>
 
